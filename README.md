@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 My name is Koen Colpaert and I'm a CISO at the Finance & Budgetting Department in a government organisation. These repositories are my personal archive of some projects and interests.
 
 ### Connect with me
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcolpaertss.org)](https://colpaert.org)
+[![Website](https://img.shields.io/website?label=colpaert.org&style=for-the-badge&url=https%3A%2F%2Fcolpaert.org)](https://colpaert.org)
